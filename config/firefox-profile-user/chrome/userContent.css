@@ -1,6 +1,11 @@
-@-moz-document url("about:newtab"), url("about:home") {
-    body {
+@-moz-document url("about:newtab"), url("about:home")
+{
+    body 
+    {
     	background-size: cover;
-        background-image: url("pics/rei2.jpg") !important;
-    }
+    	background-color: black;
+    	background-position: bottom;
+        background-image: url("pics/rei2.jpg");
+        opacity: 0.8;       
+	}
 }
