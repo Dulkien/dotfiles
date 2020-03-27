@@ -1,0 +1,5 @@
+1. Mettre le dossier "chrome" dans le dossier de profile de firefox.
+2. Aller sur firefox "about:config"
+3. Taper "toolkit.legacyUserProfileCustomizations.stylesheets"
+4. Mettre la valeur sur "True"
+5. Relancer firefox
