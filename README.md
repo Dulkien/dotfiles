@@ -1,2 +1,3 @@
-# dofiles
-My personnal setup for Manjaro i3wm
+# dotfiles
+My personnal setup for ArchLinux
+
